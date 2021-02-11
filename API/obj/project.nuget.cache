@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "zd5dnojHxfao5XUCoo+IrShtaB4bcAKLIyig2i4H/PxxD1wztNuiy8vxrz7hsJSXZ3mZiyO6W0pRmQ1m8RDmyQ==",
+  "success": true,
+  "projectFilePath": "/home/simonotter/C#-Course/DatingApp/API/API.csproj",
+  "expectedPackageFiles": [
+    "/home/simonotter/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/simonotter/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/simonotter/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/home/simonotter/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/home/simonotter/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/home/simonotter/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
