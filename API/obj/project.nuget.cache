@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yU1VU2ULWbxT6Z+ebvvUHb1dl/HSj9gmEL+7BujMpX/vMb2T+SNyzHSCDCJx4ulnMTItlGxUJ2J+c/JLK97oVA==",
+  "dgSpecHash": "h+6w7rw5Hc4xGrmvC1/MxN5ik85panLAn5O3sM5JKw36hYMy/oYNovz6vCLjAjscmBaJOGE3lSIUnOqoA3EA4A==",
   "success": true,
-  "projectFilePath": "/home/simonotter/C#-Course/DatingApp/API/API.csproj",
+  "projectFilePath": "/home/simonotter/CSharp-Course/DatingApp/API/API.csproj",
   "expectedPackageFiles": [
     "/home/simonotter/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/simonotter/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",

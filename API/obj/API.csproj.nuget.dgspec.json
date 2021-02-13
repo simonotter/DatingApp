@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/simonotter/C#-Course/DatingApp/API/API.csproj": {}
+    "/home/simonotter/CSharp-Course/DatingApp/API/API.csproj": {}
   },
   "projects": {
-    "/home/simonotter/C#-Course/DatingApp/API/API.csproj": {
+    "/home/simonotter/CSharp-Course/DatingApp/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/simonotter/C#-Course/DatingApp/API/API.csproj",
+        "projectUniqueName": "/home/simonotter/CSharp-Course/DatingApp/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/home/simonotter/C#-Course/DatingApp/API/API.csproj",
+        "projectPath": "/home/simonotter/CSharp-Course/DatingApp/API/API.csproj",
         "packagesPath": "/home/simonotter/.nuget/packages/",
-        "outputPath": "/home/simonotter/C#-Course/DatingApp/API/obj/",
+        "outputPath": "/home/simonotter/CSharp-Course/DatingApp/API/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/simonotter/.nuget/NuGet/NuGet.Config"
