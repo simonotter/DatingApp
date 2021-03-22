@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "HPtK0Lfzdd/IMdt7TcZ9Au6TFoU5pDp2wR4lsVBr8jbJajvFS2/loyIIpatHbcHBX2P4307CnqGTYEP5EMMpIw==",
+  "dgSpecHash": "fgseKsCuxjjLWpBBsfXOhOvheHjozYn8QFXS+zTdMm+S+6oN1o0y11am2WatVg7rikxuIqgunsX+c9jw7psqTg==",
   "success": true,
   "projectFilePath": "/home/simonotter/CSharp-Course/DatingApp/API/API.csproj",
   "expectedPackageFiles": [
     "/home/simonotter/.nuget/packages/automapper/10.1.1/automapper.10.1.1.nupkg.sha512",
     "/home/simonotter/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/8.1.1/automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
+    "/home/simonotter/.nuget/packages/cloudinarydotnet/1.11.0/cloudinarydotnet.1.11.0.nupkg.sha512",
     "/home/simonotter/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/simonotter/.nuget/packages/microsoft.aspnetcore.authentication.jwtbearer/5.0.3/microsoft.aspnetcore.authentication.jwtbearer.5.0.3.nupkg.sha512",
     "/home/simonotter/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
@@ -35,6 +36,7 @@
     "/home/simonotter/.nuget/packages/microsoft.identitymodel.protocols.openidconnect/6.7.1/microsoft.identitymodel.protocols.openidconnect.6.7.1.nupkg.sha512",
     "/home/simonotter/.nuget/packages/microsoft.identitymodel.tokens/6.8.0/microsoft.identitymodel.tokens.6.8.0.nupkg.sha512",
     "/home/simonotter/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/simonotter/.nuget/packages/newtonsoft.json/12.0.1/newtonsoft.json.12.0.1.nupkg.sha512",
     "/home/simonotter/.nuget/packages/sqlitepclraw.bundle_e_sqlite3/2.0.4/sqlitepclraw.bundle_e_sqlite3.2.0.4.nupkg.sha512",
     "/home/simonotter/.nuget/packages/sqlitepclraw.core/2.0.4/sqlitepclraw.core.2.0.4.nupkg.sha512",
     "/home/simonotter/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.0.4/sqlitepclraw.lib.e_sqlite3.2.0.4.nupkg.sha512",
