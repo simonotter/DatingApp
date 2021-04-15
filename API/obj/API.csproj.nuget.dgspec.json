@@ -13,6 +13,9 @@
         "packagesPath": "/home/simonotter/.nuget/packages/",
         "outputPath": "/home/simonotter/CSharp-Course/DatingApp/API/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "/home/simonotter/.nuget/NuGet/NuGet.Config"
         ],
